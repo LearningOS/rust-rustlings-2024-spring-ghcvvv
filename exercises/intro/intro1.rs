@@ -30,7 +30,7 @@ fn main() {
     println!();
     println!("The source for this exercise is in `exercises/intro/intro1.rs`. Have a look!");
     println!(
-        "Going forward, the source of the exercises will always be in the success/failure output."
+
     );
     println!();
     println!(
